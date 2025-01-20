@@ -1,0 +1,15 @@
+﻿  app.c
+  UpDate.c
+  Bull.c
+  Enemy.c
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Bull.c(18,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Enemy.c(14,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Enemy.c(14,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Enemy.c(27,41): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Enemy.c(42,24): warning C4013: RandomAngle: нет определения; предполагается "extern" с возвратом типа "int"
+E:\ELECTRONIC\Project\C_SDL_PET_v1\execut\Enemy.c(52,17): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Inputs.c
+  SDLWIN.c
+  Создание кода...
+E:\ELECTRONIC\Project\C_SDL_PET_v1\sdl\SDLWIN.c(23,1): warning C4715: InitWin: значение возвращается не при всех путях выполнения
+  C_SDL_PET.vcxproj -> E:\ELECTRONIC\Project\C_SDL_PET_v1\x64\Debug\C_SDL_PET.exe

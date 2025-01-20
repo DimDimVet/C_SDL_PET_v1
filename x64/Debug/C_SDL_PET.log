@@ -1,0 +1,7 @@
+﻿  Enemy.c
+F:\C_SDL_PET\execut\Enemy.c(15,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+F:\C_SDL_PET\execut\Enemy.c(15,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+F:\C_SDL_PET\execut\Enemy.c(20,41): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+F:\C_SDL_PET\execut\Enemy.c(37,169): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+F:\C_SDL_PET\execut\Enemy.c(61,17): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  C_SDL_PET.vcxproj -> F:\C_SDL_PET\x64\Debug\C_SDL_PET.exe
